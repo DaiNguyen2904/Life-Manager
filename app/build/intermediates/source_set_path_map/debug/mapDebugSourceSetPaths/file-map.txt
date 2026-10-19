@@ -1,0 +1,8 @@
+com.life.management.app-pngs-0 C:\Users\ngokh\Life-Management\app\build\generated\res\pngs\debug
+com.life.management.app-resValues-1 C:\Users\ngokh\Life-Management\app\build\generated\res\resValues\debug
+com.life.management.app-updated_navigation_xml-2 C:\Users\ngokh\Life-Management\app\build\generated\updated_navigation_xml\debug
+com.life.management.app-packageDebugResources-3 C:\Users\ngokh\Life-Management\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.life.management.app-packageDebugResources-4 C:\Users\ngokh\Life-Management\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.life.management.app-debug-5 C:\Users\ngokh\Life-Management\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.life.management.app-debug-6 C:\Users\ngokh\Life-Management\app\src\debug\res
+com.life.management.app-main-7 C:\Users\ngokh\Life-Management\app\src\main\res

@@ -1,0 +1,1 @@
+com.life.management:style/Theme.LifeManagement = 0x7f010000

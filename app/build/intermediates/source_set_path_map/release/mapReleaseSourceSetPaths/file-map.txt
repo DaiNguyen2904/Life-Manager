@@ -1,0 +1,8 @@
+com.life.management.app-pngs-0 C:\Users\ngokh\Life-Management\app\build\generated\res\pngs\release
+com.life.management.app-resValues-1 C:\Users\ngokh\Life-Management\app\build\generated\res\resValues\release
+com.life.management.app-updated_navigation_xml-2 C:\Users\ngokh\Life-Management\app\build\generated\updated_navigation_xml\release
+com.life.management.app-packageReleaseResources-3 C:\Users\ngokh\Life-Management\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.life.management.app-packageReleaseResources-4 C:\Users\ngokh\Life-Management\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.life.management.app-release-5 C:\Users\ngokh\Life-Management\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.life.management.app-main-6 C:\Users\ngokh\Life-Management\app\src\main\res
+com.life.management.app-release-7 C:\Users\ngokh\Life-Management\app\src\release\res

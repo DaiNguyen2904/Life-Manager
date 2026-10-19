@@ -1,0 +1,1 @@
+int style Theme_LifeManagement 0x0

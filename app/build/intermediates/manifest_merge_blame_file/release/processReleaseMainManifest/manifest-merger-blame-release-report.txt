@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.life.management"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:3:5-17:19
+12        android:allowBackup="true"
+12-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:4:9-35
+13        android:extractNativeLibs="false"
+14        android:label="Life Management"
+14-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:5:9-40
+15        android:supportsRtl="true"
+15-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:6:9-35
+16        android:theme="@style/Theme.LifeManagement" >
+16-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:7:9-52
+17        <activity
+17-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:8:9-16:20
+18            android:name="com.life.management.MainActivity"
+18-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:9:13-41
+19            android:exported="true"
+19-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:10:13-36
+20            android:screenOrientation="portrait" >
+20-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:11:13-49
+21            <intent-filter>
+21-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:12:13-15:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:13:17-69
+22-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:13:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:14:17-77
+24-->C:\Users\ngokh\Life-Management\app\src\main\AndroidManifest.xml:14:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
