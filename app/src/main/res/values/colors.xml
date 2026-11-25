@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bảng màu chủ đạo theo thiết kế -->
+    <color name="lm_background">#F8F6FC</color>
+    <color name="lm_primary">#52648F</color>
+    <color name="lm_primary_dark">#3B4A70</color>
+    <color name="lm_blue">#AFC3F2</color>
+    <color name="lm_blue_light">#DCE5F8</color>
+    <color name="lm_green">#DDF3E3</color>
+    <color name="lm_red">#F8E2E5</color>
+    <color name="lm_yellow">#FFF0C9</color>
+    <color name="lm_card">#E7E6F0</color>
+    <color name="lm_text_primary">#30313A</color>
+    <color name="lm_text_secondary">#777783</color>
+    <color name="lm_white">#FFFFFF</color>
+    <color name="lm_divider">#D9D8E3</color>
+    <color name="lm_nav_background">#ECEAF3</color>
+    <color name="lm_nav_indicator">#D5DDF5</color>
+
+    <!-- Màu chữ ngữ nghĩa -->
+    <color name="lm_income">#2E7D32</color>
+    <color name="lm_expense">#C62828</color>
+    <color name="lm_balance">#1565C0</color>
+    <color name="lm_success">#2E7D32</color>
+    <color name="lm_warning">#E65100</color>
+    <color name="lm_danger">#D32F2F</color>
+    <color name="lm_todo_text">#B3261E</color>
+    <color name="lm_progress_text">#B26A00</color>
+    <color name="lm_done_text">#1E6B34</color>
+    <color name="lm_task_card">#E3EEFB</color>
+    <color name="lm_task_title">#2F6FB7</color>
+    <color name="lm_orange_soft">#FFE3CC</color>
+
+    <!-- Mức độ ưu tiên công việc -->
+    <color name="priority_low">#43A047</color>
+    <color name="priority_medium">#F9A825</color>
+    <color name="priority_high">#E53935</color>
+
+    <!-- Màu nền icon launcher -->
+    <color name="ic_launcher_background">#52648F</color>
+</resources>

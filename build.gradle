@@ -1,0 +1,4 @@
+// File build cấp project: chỉ khai báo plugin, cấu hình chi tiết nằm trong app/build.gradle
+plugins {
+    id 'com.android.application' version '9.1.0' apply false
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_move_todo"
+        android:title="@string/task_move_todo" />
+    <item
+        android:id="@+id/action_move_in_progress"
+        android:title="@string/task_move_in_progress" />
+    <item
+        android:id="@+id/action_move_done"
+        android:title="@string/task_move_done" />
+    <item
+        android:id="@+id/action_edit"
+        android:title="@string/action_edit" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/action_delete" />
+</menu>
